@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bimal Shrestha</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
+<h3 align="center">A backend developer from Nepal</h3>
 
 - 🌱 I’m currently learning **express**
 
