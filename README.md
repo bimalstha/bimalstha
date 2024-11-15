@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bimal Shrestha</h1>
-<h3 align="center">A self-learning backend developer from Nepal</h3>
+<h3 align="center">A Full stack developer.</h3>
 
 -open for collaboration
 <h3 align="left">Connect with me:</h3>
